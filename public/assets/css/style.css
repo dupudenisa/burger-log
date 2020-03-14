@@ -1,0 +1,18 @@
+li {
+    padding:5px;
+    margin: 5px;
+    background: white;
+
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: lightblue;
+
+}
+
+.form-group {
+    margin-bottom: 5px;
+    
+}
